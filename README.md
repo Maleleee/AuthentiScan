@@ -14,7 +14,7 @@ AuthentiScan is a comprehensive AI content detection system that analyzes text, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AuthentiScan.git
+git clone https://github.com/Maleleee/AuthentiScan.git
 cd AuthentiScan
 ```
 
